@@ -1,0 +1,39 @@
+
+
+
+<SEMANTIQUE/ ACCESSIBILITE>
+----------------------------
+-Langue de la page : Ajout de l'attribut lang="fr" 
+
+-Titre de la page : Ajout d'une balise <title> explicite pour le SEO et moteurs de recherche.
+
+-<header> pour l'en-tête de la page 
+
+-<nav> pour la navigation.
+
+-balise H1 pour le nom : indiquer le titre principal de la page.
+
+-Rel="noopener noreferrer" : pour les liens externes améliorer la sécurité et les performances lors de l'ouverture de liens dans de nouvelles fenêtres.
+
+-Alt pour Instagram : Ajout alt pour icone Insta (accessibilité).
+
+-Inputs: Associer labels aux inputs (accessibilité)
+
+
+
+<PERFORMANCES>
+---------------
+
+
+Optimisation des images : Trop lourdes, redimensionner et réduire la taille, pour accelerer le chargement.
+
+Réduction du JavaScript et CSS bloquant le rendu : Éliminer ou différer le chargement des ressources qui bloquent le rendu
+
+
+Minification des ressources : Réduire la taille des fichiers CSS et JavaScript en les minifiant, ce qui réduit le temps de téléchargement.
+
+Utilisation de la mise en cache efficace : Configurer les en-têtes de cache pour les ressources statiques afin de réduire les temps de chargement pour les visiteurs récurrents.
+
+Réduction du déplacement de mise en page (Cumulative Layout Shift) : Stabiliser les éléments visuels pendant le chargement pour améliorer l'expérience utilisateur.
+
+
