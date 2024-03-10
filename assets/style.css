@@ -31,6 +31,7 @@ body {
 
 .nav li {
 	padding-inline: 10px;
+	cursor: pointer;
 }
 
 .nav a {
@@ -92,12 +93,6 @@ body {
 	font-size: 14px;
 }
 
-#gallery {
-	/*	min-height: 100vh; */
-}
-.gallery{
-
-}
 .title{
 	text-align: center;
 	padding-block: 2em;
@@ -109,6 +104,7 @@ body {
 	color: #fff;
 	background-color: #494625;
 	border-radius:0 ;
+	
 }
 .nav-pills .nav-link {
 	color: #000

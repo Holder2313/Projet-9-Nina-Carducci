@@ -25,7 +25,7 @@
 ---------------
 
 
-Optimisation des images : Trop lourdes, redimensionner et réduire la taille, pour accelerer le chargement.
+Optimisation des images :  redimensionner et réduire la taille, pour accelerer le chargement.
 
 Réduction du JavaScript et CSS bloquant le rendu : Éliminer ou différer le chargement des ressources qui bloquent le rendu
 
