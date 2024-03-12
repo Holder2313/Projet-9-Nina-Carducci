@@ -11,6 +11,10 @@
 
 -<nav> pour la navigation.
 
+suppression des div inutiles
+
+hierarchie des titres
+
 -balise H1 pour le nom : indiquer le titre principal de la page.
 
 -Rel="noopener noreferrer" : pour les liens externes améliorer la sécurité et les performances lors de l'ouverture de liens dans de nouvelles fenêtres.
@@ -18,6 +22,8 @@
 -Alt pour Instagram : Ajout alt pour icone Insta (accessibilité).
 
 -Inputs: Associer labels aux inputs (accessibilité)
+
+
 
 
 
