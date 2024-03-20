@@ -20,7 +20,7 @@ La mission comprenait plusieurs axes d'optimisation :
 - **Chargement :** Implementation du lazy loading et préchargement des ressources critiques.
 
 **Avant :** Score Lighthouse de 45/100 en performances.
-**Après :** Score Lighthouse amélioré à 95/100.
+**Après :** Score Lighthouse amélioré à 97/100.
 
 ### SEO et Accessibilité
 
@@ -29,7 +29,7 @@ La mission comprenait plusieurs axes d'optimisation :
 - **Référencement Local et Social :** Intégration de données structurées Schema.org, optimisation avec OpenGraph et Twitter Cards.
 
 **Avant :** Score SEO Lighthouse de 75/100.
-**Après :** Score SEO Lighthouse amélioré à 95/100.
+**Après :** Score SEO Lighthouse amélioré à 100/100.
 
 ## Conclusion
 
